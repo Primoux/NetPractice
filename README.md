@@ -6,6 +6,8 @@ In this 42 school project, no coding is required. The goal is to learn **network
 
 This tool helps you understand how simple networks work by configuring **IPv4 addresses** and **subnet masks** for different hosts and routers. You must connect all devices while following the network rules given in each level.
 
+*The program is not connected to the net, you can train freely without any concern.*
+
 ## Instructions
 
 ### Requirements
@@ -15,7 +17,7 @@ This tool helps you understand how simple networks work by configuring **IPv4 ad
 
 ### How to run the training interface
 
-1. Download the NetPractice archive from the 42 intranet
+1. Download the NetPractice archive from the **42 intranet**
 2. Extract the files in a directory of your choice
 3. Run the script:
    ```bash
@@ -29,6 +31,7 @@ This tool helps you understand how simple networks work by configuring **IPv4 ad
 3. Or use **Evaluation** tab for random levels 7-10 (good for practice too!)
 4. For each level, configure IPs/masks until objectives are met
 5. Click **Check again** to validate
+6. (You can check for console debug on the bottom right of the screen)
 
 ### Exporting configurations and submission
 
@@ -57,4 +60,4 @@ This project covers essential networking fundamentals including:
 
 ### Use of AI
 
-I used AI to help me reformulate and structure everything in this README while ensuring I fully understood all networking concepts.
+AI was used to reformulate and structure everything in this README to ensure that the concepts are clearly explained.
