@@ -55,7 +55,7 @@ This project covers essential networking fundamentals including:
 ### Documentation and tutorials
 
 
-- [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF): A full playlist of videos that helps me understand how a network works.
+- [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF): A full playlist of videos that helps me understand how a network works and a lot more.
 - [Subnet Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html): Quick reference for subnet calculations and IP addressing
 
 ### Use of AI
